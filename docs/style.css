@@ -1,5 +1,7 @@
 body {
 	background-color: #000000;
+	background-image: url(images/mahounekos/half_highneko_gray.png);
+	background-repeat: no-repeat;
 	color: #FFFFFF;
 	font-family: arial;
 }
