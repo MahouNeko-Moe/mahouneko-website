@@ -20,3 +20,12 @@ body {
 table {
 	border-spacing: 1em;
 }
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #373737;
+}
